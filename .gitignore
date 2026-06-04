@@ -10,14 +10,11 @@ npm-debug.log*
 *.log
 
 # env
-.env
-.env.*
 !.env.example
 
 # os / editor
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 
 # local UI audit screenshots
@@ -29,3 +26,4 @@ skills-lock.json
 
 # Superpowers planning artifacts (local only)
 docs/superpowers/
+config.bat
